@@ -10,5 +10,4 @@ public class TestFactorial {
 	public void factorial0es1() {
 		assertEquals(new Integer(1),new Integer(Factorial.calcular(0)));
 	}
-
 }
